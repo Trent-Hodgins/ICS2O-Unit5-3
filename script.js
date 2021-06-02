@@ -4,4 +4,4 @@ document.getElementById('button').addEventListener('click', reportResults)
 function reportResults () {
   alert(document.getElementById('input').value)
 }
-//This line tells the code what to do once the button is clicked. 
+//This line tells the code what to do once the button is clicked.//
